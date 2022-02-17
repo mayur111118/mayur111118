@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayuresh
-- 👀 I’m interested in software designs and controls development
+- 👀 I’m interested in software design and controls development
 - 🌱 I’m currently working as a software engineer
 - 📫 How to reach me mayudiwan96@gmai.com
 
